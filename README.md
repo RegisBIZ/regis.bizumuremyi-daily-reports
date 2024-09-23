@@ -1,1 +1,1 @@
-# regis.bizumuremyi-daily-reports
+This is my daily report of python.
